@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/HarshitSharma-h8/leetcode/tree/master/0050-powx-n) |
 | [1922-count-good-numbers](https://github.com/HarshitSharma-h8/leetcode/tree/master/1922-count-good-numbers) |
+| [3996-even-number-of-knight-moves](https://github.com/HarshitSharma-h8/leetcode/tree/master/3996-even-number-of-knight-moves) |
 ## Recursion
 |  |
 | ------- |
@@ -60,4 +61,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/HarshitSharma-h8/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/HarshitSharma-h8/leetcode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/HarshitSharma-h8/leetcode/tree/master/0216-combination-sum-iii) |
+| [3996-even-number-of-knight-moves](https://github.com/HarshitSharma-h8/leetcode/tree/master/3996-even-number-of-knight-moves) |
 <!---LeetCode Topics End-->
