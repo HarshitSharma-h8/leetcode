@@ -5,10 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HarshitSharma-h8/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/HarshitSharma-h8/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HarshitSharma-h8/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/HarshitSharma-h8/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/HarshitSharma-h8/leetcode/tree/master/0022-generate-parentheses) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/HarshitSharma-h8/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Sliding Window
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/HarshitSharma-h8/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/HarshitSharma-h8/leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/HarshitSharma-h8/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/HarshitSharma-h8/leetcode/tree/master/0040-combination-sum-ii) |
