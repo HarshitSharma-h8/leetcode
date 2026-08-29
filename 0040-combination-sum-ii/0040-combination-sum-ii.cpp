@@ -2,44 +2,32 @@ class Solution {
 public:
     vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
         sort(candidates.begin(), candidates.end());
-
-        vector<vector<int>> res;
-        vector<int> ans;
-
-        generate(candidates, 0, target, ans, res);
-
-        return res;
+        vector<vector<int>> ans;
+        vector<int> comb;
+        cs(candidates, 0, comb, ans, target);
+        return ans;
     }
-
-    void generate(vector<int>& candidates, int ind, int target,
-                  vector<int>& ans, vector<vector<int>>& res) {
-
+    void cs(vector<int>& arr, int i, vector<int>& comb,
+            vector<vector<int>>& ans, int target) {
+        // base condition
         if (target == 0) {
-            res.push_back(ans);
+            ans.push_back(comb);
             return;
         }
-
-        if (target < 0 || ind == candidates.size()) {
+        if (i == arr.size() || target < 0) {
             return;
         }
+        
 
-        for (int i = ind; i < candidates.size(); i++) {
+        comb.push_back(arr[i]);
+        // singel
+        cs(arr, i+1 , comb, ans, target - arr[i]);
 
-            // Skip duplicate values at the same recursion level
-            if (i > ind && candidates[i] == candidates[i - 1])
-                continue;
-
-            // Since array is sorted, no later value can work
-            if (candidates[i] > target)
-                break;
-
-            ans.push_back(candidates[i]);
-
-            // i + 1 -> each element can be used only once
-            generate(candidates, i + 1, target - candidates[i],
-                     ans, res);
-
-            ans.pop_back();
+        comb.pop_back();
+        while(i+1 < arr.size() && arr[i] == arr[i+1]){
+            i++;
         }
+        // not include
+        cs(arr, i + 1, comb, ans, target);
     }
 };
