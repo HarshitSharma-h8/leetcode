@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/HarshitSharma-h8/leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/HarshitSharma-h8/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/HarshitSharma-h8/leetcode/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/HarshitSharma-h8/leetcode/tree/master/0216-combination-sum-iii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/HarshitSharma-h8/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Bracket Sequences
 |  |
@@ -55,4 +56,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/HarshitSharma-h8/leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/HarshitSharma-h8/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/HarshitSharma-h8/leetcode/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/HarshitSharma-h8/leetcode/tree/master/0216-combination-sum-iii) |
 <!---LeetCode Topics End-->
