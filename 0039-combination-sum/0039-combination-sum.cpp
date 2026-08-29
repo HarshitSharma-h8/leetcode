@@ -1,6 +1,5 @@
 class Solution {
 public:
-    set<vector<int>> s;
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
         vector<vector<int>> ans;
         vector<int> comb;
@@ -14,18 +13,14 @@ public:
             return;
         }
         if (target == 0) {
-            if (s.find(comb) == s.end()) {
-                ans.push_back(comb);
-                s.insert(comb);
-            }
+            ans.push_back(comb);
             return;
         }
 
         comb.push_back(arr[i]);
         // singel
-        cs(arr, i + 1, comb, ans, target - arr[i]);
-        // multiple
-        cs(arr, i, comb, ans, target - arr[i]);
+        cs(arr, i , comb, ans, target - arr[i]);
+
         // not include
         comb.pop_back();
         cs(arr, i + 1, comb, ans, target);
