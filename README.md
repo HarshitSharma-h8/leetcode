@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/HarshitSharma-h8/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/HarshitSharma-h8/leetcode/tree/master/0090-subsets-ii) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/HarshitSharma-h8/leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/HarshitSharma-h8/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Array
 |  |
