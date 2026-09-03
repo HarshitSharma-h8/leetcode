@@ -5,11 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HarshitSharma-h8/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/HarshitSharma-h8/leetcode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HarshitSharma-h8/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HarshitSharma-h8/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/HarshitSharma-h8/leetcode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HarshitSharma-h8/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/HarshitSharma-h8/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/HarshitSharma-h8/leetcode/tree/master/0022-generate-parentheses) |
@@ -21,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/HarshitSharma-h8/leetcode/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/HarshitSharma-h8/leetcode/tree/master/0050-powx-n) |
 | [1922-count-good-numbers](https://github.com/HarshitSharma-h8/leetcode/tree/master/1922-count-good-numbers) |
 | [3996-even-number-of-knight-moves](https://github.com/HarshitSharma-h8/leetcode/tree/master/3996-even-number-of-knight-moves) |
