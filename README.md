@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HarshitSharma-h8/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HarshitSharma-h8/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/HarshitSharma-h8/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/HarshitSharma-h8/leetcode/tree/master/0022-generate-parentheses) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/HarshitSharma-h8/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Sliding Window
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/HarshitSharma-h8/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/HarshitSharma-h8/leetcode/tree/master/0022-generate-parentheses) |
 ## Bit Manipulation
 |  |
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/HarshitSharma-h8/leetcode/tree/master/0216-combination-sum-iii) |
 | [0260-single-number-iii](https://github.com/HarshitSharma-h8/leetcode/tree/master/0260-single-number-iii) |
 | [3996-even-number-of-knight-moves](https://github.com/HarshitSharma-h8/leetcode/tree/master/3996-even-number-of-knight-moves) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/HarshitSharma-h8/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
