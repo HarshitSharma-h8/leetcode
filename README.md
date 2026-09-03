@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HarshitSharma-h8/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/HarshitSharma-h8/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/HarshitSharma-h8/leetcode/tree/master/0022-generate-parentheses) |
+| [0067-add-binary](https://github.com/HarshitSharma-h8/leetcode/tree/master/0067-add-binary) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/HarshitSharma-h8/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Sliding Window
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/HarshitSharma-h8/leetcode/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/HarshitSharma-h8/leetcode/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/HarshitSharma-h8/leetcode/tree/master/0067-add-binary) |
 | [1922-count-good-numbers](https://github.com/HarshitSharma-h8/leetcode/tree/master/1922-count-good-numbers) |
 | [3996-even-number-of-knight-moves](https://github.com/HarshitSharma-h8/leetcode/tree/master/3996-even-number-of-knight-moves) |
 ## Recursion
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/HarshitSharma-h8/leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/HarshitSharma-h8/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/HarshitSharma-h8/leetcode/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/HarshitSharma-h8/leetcode/tree/master/0137-single-number-ii) |
@@ -76,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/HarshitSharma-h8/leetcode/tree/master/0020-valid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/HarshitSharma-h8/leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
