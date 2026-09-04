@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/HarshitSharma-h8/leetcode/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/HarshitSharma-h8/leetcode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/HarshitSharma-h8/leetcode/tree/master/0067-add-binary) |
+| [0204-count-primes](https://github.com/HarshitSharma-h8/leetcode/tree/master/0204-count-primes) |
 | [1922-count-good-numbers](https://github.com/HarshitSharma-h8/leetcode/tree/master/1922-count-good-numbers) |
 | [3996-even-number-of-knight-moves](https://github.com/HarshitSharma-h8/leetcode/tree/master/3996-even-number-of-knight-moves) |
 ## Recursion
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/HarshitSharma-h8/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/HarshitSharma-h8/leetcode/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/HarshitSharma-h8/leetcode/tree/master/0137-single-number-ii) |
+| [0204-count-primes](https://github.com/HarshitSharma-h8/leetcode/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/HarshitSharma-h8/leetcode/tree/master/0216-combination-sum-iii) |
 | [0260-single-number-iii](https://github.com/HarshitSharma-h8/leetcode/tree/master/0260-single-number-iii) |
 | [3996-even-number-of-knight-moves](https://github.com/HarshitSharma-h8/leetcode/tree/master/3996-even-number-of-knight-moves) |
@@ -83,4 +85,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/HarshitSharma-h8/leetcode/tree/master/0067-add-binary) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/HarshitSharma-h8/leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/HarshitSharma-h8/leetcode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/HarshitSharma-h8/leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/HarshitSharma-h8/leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/HarshitSharma-h8/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
