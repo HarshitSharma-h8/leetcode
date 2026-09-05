@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/HarshitSharma-h8/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/HarshitSharma-h8/leetcode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HarshitSharma-h8/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/HarshitSharma-h8/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## String
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/HarshitSharma-h8/leetcode/tree/master/0067-add-binary) |
 | [0204-count-primes](https://github.com/HarshitSharma-h8/leetcode/tree/master/0204-count-primes) |
 | [1922-count-good-numbers](https://github.com/HarshitSharma-h8/leetcode/tree/master/1922-count-good-numbers) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/HarshitSharma-h8/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3996-even-number-of-knight-moves](https://github.com/HarshitSharma-h8/leetcode/tree/master/3996-even-number-of-knight-moves) |
 ## Recursion
 |  |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/HarshitSharma-h8/leetcode/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/HarshitSharma-h8/leetcode/tree/master/0216-combination-sum-iii) |
 | [0260-single-number-iii](https://github.com/HarshitSharma-h8/leetcode/tree/master/0260-single-number-iii) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/HarshitSharma-h8/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3996-even-number-of-knight-moves](https://github.com/HarshitSharma-h8/leetcode/tree/master/3996-even-number-of-knight-moves) |
 ## Stack
 |  |
@@ -93,16 +96,32 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/HarshitSharma-h8/leetcode/tree/master/0204-count-primes) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/HarshitSharma-h8/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Primality Test
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/HarshitSharma-h8/leetcode/tree/master/0204-count-primes) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/HarshitSharma-h8/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Sieve Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/HarshitSharma-h8/leetcode/tree/master/0204-count-primes) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/HarshitSharma-h8/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Prime Number Sieve
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/HarshitSharma-h8/leetcode/tree/master/0204-count-primes) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/HarshitSharma-h8/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+## Prime Factorization
+|  |
+| ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/HarshitSharma-h8/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/HarshitSharma-h8/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/HarshitSharma-h8/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 <!---LeetCode Topics End-->
